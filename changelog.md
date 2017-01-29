@@ -45,4 +45,18 @@ Release Date: Jan 27, 2017
     -   gallery (DT)
     -   welcome (DT)
 
+Version 1.0.3
+
+## Updated Components
+
+-   model
+    -   comp.4711   (DT)
+
+-   views
+    -   about   (DT)
+    -   gallery (DT)
+    -   welcome (DT)
+
+Pictures for the gallery and home page are pulled from the model
+
 
