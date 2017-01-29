@@ -4,11 +4,6 @@ Team membership:  WB (Captain) & DT (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version 1.0*
-
-Initialized repositry after fork
-
-
 ## *Version 1.1*
 
 Release Date: Jan 27, 2017
@@ -32,7 +27,7 @@ Release Date: Jan 27, 2017
 
     -   welcome (DT)
 
-## *Version 1.1*
+## *Version 1.0.1*
 
 Release Date: Jan 27, 2017
 
@@ -44,6 +39,10 @@ Release Date: Jan 27, 2017
     -   about   (DT)
     -   gallery (DT)
     -   welcome (DT)
+
+
+## *Version 1.0.2*
+Added Gpg signing
 
 Version 1.0.3
 
@@ -58,5 +57,9 @@ Version 1.0.3
     -   welcome (DT)
 
 Pictures for the gallery and home page are pulled from the model
+
+## *Version 1.0*
+
+Initialized repositry after fork
 
 
