@@ -7,3 +7,4 @@
 /nbproject/private/
 /nbproject/
 config/database.php
+/application/config/database.php
