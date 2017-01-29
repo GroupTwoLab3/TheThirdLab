@@ -30,14 +30,14 @@ class Gallery extends Application
             //prime the table class
             $this->load->library('table');
             $parms = array(
-                'table_open'=>'<table class="gallery">',
-                'cell_start'=>'<td class="oneimage">',
+                'table_open' => '<table class="gallery">',
+                'cell_start' => '<td class="oneimage">',
                 'cell_alt_start' => '<td class="oneimage">'
             );
             $this->table->set_template($parms);
             
             //generate table
-            $rows = $this->table->make_columns($cell,3);
+            $rows = $this->table->make_columns($cells,3);
             $this->data['thetable'] = $this->table->generate($rows);
             
             $this->data['pagebody'] = 'gallery';
