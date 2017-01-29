@@ -1,5 +1,7 @@
 <?php
 
+defined('BASEPATH') OR exit('No direct script access allowed');
+
 class Images extends CI_Model{
     //constructor
     function __construct(){
@@ -20,5 +22,3 @@ class Images extends CI_Model{
         return $query->result_array();
     }
 }
-
-$autoload['model'] = array('images');
