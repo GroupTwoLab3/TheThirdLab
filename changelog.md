@@ -6,6 +6,11 @@ Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdo
 
 ## *Version 1.1*
 
+Release Date: Jan 28, 2017
+Convert from basic to trivial.
+
+## *Version 1.1*
+
 Release Date: Jan 27, 2017
 
 ## New Components
