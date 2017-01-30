@@ -1,37 +1,70 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  WB (Captain) & DT (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version 1.0*
-Initialized repositry after fork
+## *Version 1.1*
 
+Release Date: Jan 28, 2017
+Convert from basic to trivial.
 
-## *Version x.x*
+## *Version 1.1*
 
-Release Date: Jul 26, 2027
+Release Date: Jan 27, 2017
 
 ## New Components
 
 -   controllers
 
-    -   serbian (AB)
-    
-## Updated Components
-
--   controllers
-
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
+    -   About   (DT)
+    -   Gallery (DT)
+    -   Welcome (DT)
 
 -   views
 
-    -   slovenian (AB)
-    -   swedish
+    -   about   (DT)
+    -   gallery (DT)
+    
+## Updated Components
+
+-   views
+
+    -   welcome (DT)
+
+## *Version 1.0.1*
+
+Release Date: Jan 27, 2017
+
+## New Components
+
+## Updated Components
+
+-   views
+    -   about   (DT)
+    -   gallery (DT)
+    -   welcome (DT)
+
+
+## *Version 1.0.2*
+Added Gpg signing
+
+Version 1.0.3
+
+## Updated Components
+
+-   model
+    -   comp.4711   (DT)
+
+-   views
+    -   about   (DT)
+    -   gallery (DT)
+    -   welcome (DT)
+
+Pictures for the gallery and home page are pulled from the model
+
+## *Version 1.0*
+
+Initialized repositry after fork
 
 
